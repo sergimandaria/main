@@ -1,0 +1,373 @@
+@media all and (min-width: 1024px) {
+    .buttons-1 {
+        display: block;
+    }
+
+    .mainsection {
+        gap: 400px;
+    }
+
+    .title {
+        font-size: 5.6rem;
+        max-width: 800px;
+
+    }
+
+    .main-2 {
+        gap: 43px;
+    }
+
+    .click {
+        padding: 24px 32px 24px 32px;
+    }
+
+    .under {
+        flex-direction: row;
+        gap: 16px;
+    }
+
+    .mainbrand-2 {
+        display: block;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mainbrand-1 {
+        display: none;
+    }
+
+    .services {
+        font-size: 2.3rem;
+    }
+
+    .description {
+        font-size: 4rem;
+        max-width: 800px;
+    }
+
+    .child-2 {
+        max-width: 160px;
+        font-size: 2.8rem;
+    }
+
+    .child-3 {
+        max-width: 160px;
+        font-size: 1.8rem;
+    }
+
+    .articles {
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+    }
+
+    .mainsection-2 {
+        gap: 64px;
+    }
+
+    .parent {
+        padding: 64px;
+        gap: 64px;
+    }
+
+    .clickbutton {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .article-2 {
+        flex-direction: row;
+    }
+
+    .maintitle-1 {
+        font-size: 2.3rem;
+    }
+
+    .maintitle-2 {
+        font-size: 4rem;
+    }
+
+    .space {
+        max-width: 214px;
+    }
+
+    .travelpoint {
+        font-size: 2.3rem;
+    }
+
+    .location {
+        font-size: 4rem;
+        max-width: 832px;
+    }
+
+    .paragraptext {
+        max-width: 832px;
+    }
+
+    .changerows {
+        flex-direction: row;
+        gap: 300px;
+    }
+
+    .feature {
+        font-size: 2.3rem;
+    }
+
+    .offer {
+        font-size: 4rem;
+    }
+
+    .paragrap-1 {
+        max-width: 632px;
+    }
+
+    .articlechild {
+        flex-direction: row;
+        align-items: center;
+
+    }
+
+    .test {
+        font-size: 2.3rem;
+    }
+
+    .client {
+        font-size: 4rem;
+    }
+
+    .paragrap-2 {
+        font-size: 2.3rem;
+        max-width: 584px;
+    }
+
+    .off {
+        display: none;
+    }
+
+    .disapear {
+        display: block;
+    }
+
+    .title-1 {
+        max-width: 769px;
+        font-size: 2.3rem;
+    }
+
+    .title-2 {
+        max-width: 769px;
+        font-size: 4rem;
+    }
+
+    .email {
+        flex-direction: row;
+    }
+
+    .mail input {
+        width: 502px;
+        max-width: 100%;
+    }
+
+    .subscribe {
+        width: 200px;
+        max-width: 100%px;
+    }
+
+    .section-6 {
+        position: absolute;
+    }
+
+    .companychild2 {
+
+        flex-direction: column;
+    }
+
+    .block {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    .footerchild2 {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+
+    .links {
+        display: block;
+    }
+
+    .footertext {
+        max-width: 897px;
+        font-size: 2.3rem;
+    }
+
+    .footer {
+        gap: 64px;
+        margin-top: 64px;
+    }
+
+    .footerchild1 {
+        margin-left: 132px;
+    }
+}
+
+
+@media all and (min-width: 1440px) {
+    .display {
+        display: block;
+    }
+
+    .burger {
+        display: none;
+    }
+
+    .mainsection {
+        display: grid;
+        grid-template-columns: 0.4fr 1fr;
+        justify-content: start;
+        gap: 0;
+
+
+    }
+
+    .travel {
+        grid-row: 1;
+        grid-column: 2;
+    }
+
+    .main-2 {
+        margin-top: 100px;
+        margin-left: 150px;
+        grid-row: 1/3;
+        grid-column: 1;
+        gap: 50px;
+    }
+
+    .title {
+        max-width: 412px;
+        font-size: 6.9rem;
+    }
+
+    .mainbrand-2 {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: row;
+        gap: 90px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mainsection-2 {
+        flex-direction: row;
+        gap: 10px;
+        justify-content: space-around;
+    }
+
+    .child-2 {
+        max-width: 222px;
+    }
+
+    .child-3 {
+        max-width: 222px;
+    }
+
+    .parent {
+        padding: 30px;
+    }
+
+    .description {
+        max-width: 444px;
+    }
+
+    .services {
+        font-size: 2.3rem;
+        line-height: 27px;
+    }
+
+    .article-1 {
+        flex-direction: row;
+        gap: 600px;
+    }
+
+    .location {
+        font-size: 4.4rem;
+        max-width: 441px;
+    }
+
+    .paragraptext {
+        max-width: 441px;
+        font-size: 1.8rem;
+    }
+
+    .section-4 {
+        flex-direction: row;
+        gap: 2px;
+    }
+
+    .changerows {
+        flex-direction: row;
+        gap: 50px;
+    }
+
+    .offer {
+        font-size: 4.4rem;
+    }
+
+    .paragrap-1 {
+        max-width: 429px;
+    }
+
+    .section-5 {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .client {
+        font-size: 4.4rem;
+    }
+
+    .paragrap-2 {
+        font-size: 2.3rem;
+        max-width: 872px;
+    }
+
+
+    .title-1 {
+        max-width: 1056px;
+        font-size: 2.3rem;
+    }
+
+    .title-2 {
+        max-width: 1056px;
+        font-size: 5.5rem;
+    }
+
+    .mail input {
+        width: 757px;
+        max-width: 100%;
+    }
+
+    .subscribe {
+        width: 250px;
+        max-width: 100%px;
+    }
+
+    .footertext {
+        max-width: 560px;
+        font-size: 2.3rem;
+    }
+
+    .footer {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        gap: 10px;
+        padding: 2px 2px 20px;
+    }
+}
